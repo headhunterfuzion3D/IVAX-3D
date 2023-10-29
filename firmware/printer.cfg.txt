@@ -111,14 +111,6 @@ max_extrude_only_velocity:75.0
 max_extrude_only_accel:1000.0
 max_extrude_cross_section: 5.0
 
-
-# Driver5
-#[extruder_stepper belted_extruder]
-#extruder =extruder_1
-#[extruder_stepper my_extra_stepper]
-#step_pin: PC13
-#dir_pin: !PF0
-#enable_pin: !PF1
  #Driver5
 [extruder_stepper extruder1] ##	In E2-MOT Position
 extruder:  # If blank, not synchronized
