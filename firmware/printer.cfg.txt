@@ -9,15 +9,9 @@ on_error_gcode: CANCEL_PRINT
 [mcu]
 serial:   /dev/serial/by-id/usb-Klipper_stm32f446xx_51002B000551313133353932-if00 
 
-
-
-
 [display_status]
 
 [pause_resume]
-
-
-
 
 # Driver0
 [stepper_x]
